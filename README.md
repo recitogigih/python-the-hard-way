@@ -1,1 +1,1 @@
-# python-the-hard-way
+# python3-the-hard-way
